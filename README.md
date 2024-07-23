@@ -1,5 +1,5 @@
-# python
-# to Display the name of students whose marks in english is greator than 50 
+# List in python
+# To Display the name of students whose marks in english is greator than 50 
 
 list1 = [
     ["stdid", 'stdname', "standard", "age", "Hindi", "English", "Science", "Computer", "total"],
