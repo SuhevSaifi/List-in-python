@@ -1,4 +1,4 @@
-# List-in-python
+# python
 # to Display the name of students whose marks in english is greator than 50 
 
 list1 = [
